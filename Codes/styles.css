@@ -1,0 +1,39 @@
+body {
+  margin: 100px auto;
+  background-color: aqua;
+}
+
+body h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 300%;
+}
+
+.meme-generator {
+  margin: 50px auto;
+  width: 400px;
+  font-family: sans-serif;
+}
+
+.meme-generator label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.meme-generator input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#topText1{
+    border-style: dotted;
+}
+#bottomText2{
+    border-style: dotted;
+}
+
+#memeimage {
+  width: 100%;
+}
